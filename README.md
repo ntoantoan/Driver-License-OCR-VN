@@ -1,8 +1,8 @@
 # Driver-License-OCR-VN
 
 run:
-python save_model.py
-python demo.py
+1. python save_model.py
+2. python demo.py
 
 download weights and put to folder weights
 
